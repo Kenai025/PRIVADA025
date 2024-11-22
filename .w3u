@@ -222,6 +222,9 @@
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsgCCTYBOKfu6IABjOT75t3INsEPnsMpF6-Hh5K1BCmJPaCxkzybTxlTr&s=10", 
 "stations": [
 
+{"name":"A&E","image":"http://descargas.podzone.net/logos/-AyE.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4037"},
+
 {"name":"A&E","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59578"},
 
