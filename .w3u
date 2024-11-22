@@ -7,53 +7,48 @@
 "image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
 "stations": [
 
+{"name": "TV ABIERTA MX",
+"image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
+"stations": [
+
 {"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2146"},
 
 {"name":"ADN40","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQLpaYsGCkxzWIuBqJSVHRy1_Ioul2xaD7SvyvyZGWjndfCxZuXKYXTLQ&s=10 ",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4025"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4025"},
 
-{"name":"AZTECA UNO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155859"},
+{"name":"AZTECA UNO","image":"http://descargas.podzone.net/logos/-azteca-uno.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4087"},
 
 {"name":"AZTECA UNO OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQO-y2uc8dASOZeGEsQL7JbI3iQ4yTP_uaQRk4R5NfhENpI0kbmefl7hS0&s=10",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2008"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155859"},
 
-{"name":"AZTECA 7","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4027"},
+{"name":"AZTECA 7","image":"http://descargas.podzone.net/logos/-azteca-7.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4027"},
 
 {"name":"AZTECA 7 OPC2","image":"https://cdn.mitvstatic.com/channels/mx_azteca-7_m.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155863"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155862"},
 
-{"name":"LAS ESTRELLAS","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4030"},
+{"name":"LAS ESTRELLAS","image":"http://descargas.podzone.net/logos/-el-canal-de-las-estrellas.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4030"},
 
 {"name":"LAS ESTRELLAS OPC2","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/8/85/Canal_de_las_Estrellas_logo.svg/1200px-Canal_de_las_Estrellas_logo.svg.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59422"},
 
-{"name":"CANAL 5","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU", 
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155865"},
+{"name":"CANAL 5","image":"http://descargas.podzone.net/logos/-canal-5-mx.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4028"},
 
 {"name":"CANAL 5 OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRZq4TvwEszIux8o5WiN-wBD7A7grtu73Ulzg&usqp=CAU",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1155866"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155865"},
 
-{"name":"ESTRELLA TV","image":"http://descargas.podzone.net/logos/-estrella-tv.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/41188"},
+{"name":"CANAL NUEVE","image":"http://descargas.podzone.net/logos/-nueve.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155855"},
 
-{"name":"FORO TV","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo-ForoTV-2020.png/600px-Logo-ForoTV-2020.png",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59501"},
+{"name":"IMAGEN TV","image":"http://descargas.podzone.net/logos/-imagen-tv.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1124600"},
 
-{"name":"IMAGEN TV","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLAIjbviJ4bU-iD_WhabSEnfzZrz5L2ENGBAfJSjTxI8o7ePFzQzYv16M&s=10",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59627"},
-
-{"name":"CANAL NUEVE","image":"https://www.pandaancha.mx/plds/articulos/froala/canal9logo-168x168-409953538.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2154"},
-
-{"name":"TELEMNDO","image":"http://descargas.podzone.net/logos/-telemundo.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/43189"},
-
-{"name":"CANAL ONCE","image":"https://www.contrareplica.mx/uploads/normal/fd04fbe0e16b3367fe090d478651b663.jpg",
-"url":"http://canal-pro.xyz:8080/73177492/13012022/59594"}]},
+{"name":"FORO TV","image":"http://descargas.podzone.net/logos/-foro-tv.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155869"}]},
 
 {"name": "CULTURA & ENTRETEMIENTO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSojFF6MH0Z5ifsQHWRwEGAicWPNM1GwYRZSpyY67fY08fTde59n8S4xcKl&s=10 ",
