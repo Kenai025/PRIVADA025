@@ -96,8 +96,8 @@
 {"name":"NATGEO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSb8VPwpuAYlLdvYfuIPhG96AMwz15GgoFraTRXEH23w&s",
 "url":"http://fivetv.org:25461/GaboT/2023GT/186512"}]},
 
-{"name": "MÉXICO DEPORTES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSnqguEdkIJZTRph59VVoIQKSjkAPEqggC2zXhkGWv-jgjtPT4a2B2bnaQ&s=10", 
+{"name": "DEPORTES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZ2KT5PQ8jFr5-rQnV9If4kw0-eBg_6Ko5RA&usqp=CAU", 
 "stations": [
 
 {"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
@@ -140,7 +140,7 @@
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2113"}]},
 
 {"name": "CINE & 24/7",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTcfRnG_uX6DZkWiiogkuyjsw5FxvOtS1B8SVcLKP7t6F0qeQevjGvriNI&s=10", 
+"image": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-24-7-hour-service-label-design-with-free-vector-png-image_6568820.png", 
 "stations": [
 
 {"name":"CINE ACCION","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-1najiqGIz96XRi6NDLCXy1cXXM1iYIDtQ&usqp=CAU",
@@ -218,8 +218,8 @@
 {"name":"CINE VAMPIROS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XtX41-DytXUUWi74XpefW2_rN_8-GU8Osm6pISSGig&s",
 "url":"http://tv.nousiptv.com:8080/virolawa/193723/1185762"}]},
 
-{"name": "MÉXICO CINE & SERIES",
-"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSGeff5YnuBi74wo5GfXY87UfNN7g6b0yDVcw&usqp=CAU", 
+{"name": "CINE & SERIES",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsgCCTYBOKfu6IABjOT75t3INsEPnsMpF6-Hh5K1BCmJPaCxkzybTxlTr&s=10", 
 "stations": [
 
 {"name":"A&E","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
