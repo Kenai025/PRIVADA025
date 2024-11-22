@@ -225,13 +225,19 @@
 {"name":"A&E","image":"http://descargas.podzone.net/logos/-AyE.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4037"},
 
-{"name":"A&E","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
+{"name":"A&E OPC2","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRR2qP7YGQzB9UMyx0aLqT_rNc5GUfgOM0-tJSNMEWg1-uZHL7Ktmvf4QWH&s=10",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59578"},
 
-{"name":"AMC","image":"https://i.ibb.co/m8Txm1X/AMCHD.jpg ",
+{"name":"AMC","image":"http://descargas.podzone.net/logos/-AMC.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4085"},
+
+{"name":"AMC OPC2","image":"https://i.ibb.co/m8Txm1X/AMCHD.jpg ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/24888"},
 
-{"name":"AXN","image":"https://i.ibb.co/NZ66vJS/AXNHD.jpg",
+{"name":"AXN","image":"http://descargas.podzone.net/logos/-AXN.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4038"},
+
+{"name":"AXN OPC2","image":"https://i.ibb.co/NZ66vJS/AXNHD.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59479"},
 
 {"name":"CINECANAL","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg",
