@@ -1,10 +1,10 @@
 {"name": "PRIVATE TV",
-"image":"https://yourclubox.com/box/Logos/img1.png",
-"author": "Mexico - p.a.c.o",
+"image":"https://static.wikia.nocookie.net/faketelevision/images/0/0e/1999-2005_TV_Privada.png/revision/latest/scale-to-width-down/3264?cb=20240302000551",
+"author": "P.A.C.O.",
 "groups": [
 
-{"name": "MÉXICO TDT",
-"image": "https://www.trecebits.com/wp-content/uploads/2024/02/logo-tdt-television.webp", 
+{"name": "TV T.D.T.",
+"image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
 "stations": [
 
 {"name":"A+","image":"http://live.iptvlatino.cc/stream_icons_mx/amas.png",
