@@ -310,19 +310,19 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/139"},
 
 {"name":"HBO OPC2","image":"http://descargas.podzone.net/logos/-HBO.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/ae61cfe6-68ed-4eaf-9c8e-1a7bf4e10987.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4112"},
 
 {"name":"HBO 2","image":"https://i.ibb.co/0XZg6R7/HBO2.jpg ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/131"},
 
 {"name":"HBO 2 OPC2","image":"http://descargas.podzone.net/logos/-HBO-2.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/65fbee9b-efd1-4e85-9a13-dd7d07c300de.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4095"},
 
 {"name":"HBO FAMILY","image":"https://i.ibb.co/88mbrNn/HBOFAMILY.jpg ",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/135"},
 
 {"name":"HBO FAMILY OPC2","image":"http://descargas.podzone.net/logos/-HBO-family.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/b1f95cbb-334d-4c2e-9836-e21dbedcc090.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4017"},
 
 {"name":"HBO LATINO","image":"http://live.iptvlatino.cc/stream_icons_mx/hbo_latino_us.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2075"},
@@ -331,31 +331,31 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/142"},
 
 {"name":"HBO MUNDI OPC2","image":"http://descargas.podzone.net/logos/-HBO-mundi.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1077"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1143815"},
 
 {"name":"HBO PLUS","image":"https://i.ibb.co/42KnfJN/HBOPLUS.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/144"},
 
 {"name":"HBO PLUS OPC2","image":"http://descargas.podzone.net/logos/-HBO-plus.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/319b301d-f477-403c-9cba-82340da35363.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4109"},
 
 {"name":"HBO POP","image":"https://i.ibb.co/VQLsWDt/HBOPOP.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/147"},
 
 {"name":"HBO POP OPC2","image":"http://descargas.podzone.net/logos/-HBO-pop.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/a2a587c1-1d9a-4210-86af-178330eeeb9f.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/8246"},
 
 {"name":"HBO SIGNATURE","image":"https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/151"},
 
 {"name":"HBO SIGNATURE OPC2","image":"http://descargas.podzone.net/logos/-HBO-signature.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/e4b553a8-a4c2-4034-ab9d-7200cbd77735.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1155796"},
 
 {"name":"HBO XTREME","image":"https://i.ibb.co/K2y2KxG/HBOXTREME.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/156"},
 
 {"name":"HBO XTREME OPC2","image":"http://descargas.podzone.net/logos/-HBO-xtream.png",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/4f69c79c-1c3b-40e3-9b9e-55cf3a2571f9.m3u"},
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/8226"},
 
 {"name":"PANICO","image":"http://live.iptvlatino.cc/stream_icons_mx/panico.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2099"},
@@ -375,29 +375,56 @@
 {"name":"STAR CHANNEL","image":"https://i.ibb.co/WyL4txb/STARCHANEL.jpg",
 "url":"https://nxt.plus:8443/Aurora23/128704/238323"},
 
+{"name":"STAR CHANNELOPC2","image":"ttp://descargas.podzone.net/logos/-star-channel.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4022"},
+
 {"name":"STUDIO UNIVERSAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtC8w1c9rQCVkCSGe9bL_ZoMSyk5Qcq-UQjNlRmX3SQF04yOPnZaInwzX3&s=10 ",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4100"},
+
+{"name":"STUDIO UNIVERSAL OPC2","image":"http://descargas.podzone.net/logos/-studio-universal.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1155803"},
 
 {"name":"TNT","image":"https://i.ibb.co/0q21c8Q/TNT.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59431"},
 
-{"name":"TNT SERIES","image":"https://i.ibb.co/KqtK9ZQ/TNTSERIES.jpg",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/4050"},
+{"name":"TNT OPC2","image":"http://descargas.podzone.net/logos/-TNT.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4103"},
+
+{"name":"TNT SERIES","image":"http://descargas.podzone.net/logos/-TNT-series.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1156004"},
+
+{"name":"TNT SERIES OPC2","image":"http://descargas.podzone.net/logos/-TNT-series.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4050"},
 
 {"name":"UNIVERSAL","image": "https://i.ibb.co/kqgm3p7/UNIVERSALCHANNEL.jpg",
 "url": "http://tv.nousiptv.com:8080/095488530/Alvaro/4054"},
 
+{"name":"UNIVERSAL opc2","image": "http://descargas.podzone.net/logos/-universal-channel.png",
+"url": "http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1156005"},
+
 {"name":"UNIVERSAL CINEMA","image":"http://descargas.podzone.net/logos/-universal-cinema.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54464"},
+
+{"name":"UNIVERSAL CINEMA OPC22","image":"http://descargas.podzone.net/logos/-universal-cinema.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1119206"},
 
 {"name":"UNIVERSAL COMEDY","image":"http://descargas.podzone.net/logos/-universal-comedy.png",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1119202"},
 
+{"name":"UNIVERSAL COMEDY OPC2","image":"http://descargas.podzone.net/logos/-universal-comedy.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1119202"},
+
 {"name":"UNIVERSAL CRIME","image":"http://descargas.podzone.net/logos/-universal-crime.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1142"},
 
+{"name":"UNIVERSAL CRIME OPC2","image":"http://descargas.podzone.net/logos/-universal-crime.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1119203"},
+
 {"name":"UNIVERSAL PREMIER","image":"http://descargas.podzone.net/logos/-universal-premier.png",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/54463"},
+
+{"name":"UNIVERSAL PREMIER OPC2","image":"http://descargas.podzone.net/logos/-universal-premier.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1119204"},
 
 {"name":"STARZ CINEMA HD","image":"https://static.epg.best/us/StarzCinema.us.png",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/206"},
@@ -426,5 +453,8 @@
 {"name":"STARZ ENCORE FAMILY","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/212"},
 
-{"name":"WARNER","image":"https://i.ibb.co/vJrZD2P/WARNERCHANNEL.jpg  ",
-"url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/c13aa5c7-c26d-40c1-958b-777bc677506d.m3u"}]}]}]}{"name": "PRIVATE TV",
+{"name":"WARNER OPC2","image":"https://static.epg.best/us/StarzEncoreFamily.us.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1155808"},
+
+{"name":"WARNER OPC2","image":"http://descargas.podzone.net/logos/-warner.png",
+"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4053"}]}]}]}{"name": "PRIVATE TV",
