@@ -3,7 +3,7 @@
 "author": "Mexico - p.a.c.o",
 "groups": [
 
-{"name": "TV ABIERTA MX",
+{"name": "TV ABIERTA",
 "image": "https://images.sftcdn.net/images/t_app-icon-m/p/346b6cc8-e7c1-49ee-b725-d84d41ec666c/4291041695/tv-mexico-en-vivo-abierta-logo", 
 "stations": [
 
@@ -103,17 +103,35 @@
 {"name":"AZTECA DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSY-q76RnjB6u3hq7YLGWwInuyNLWZQU1bBlspIgX_0ABOX--FV-pe7n7c&s=10",
 "url":"http://xcm.budtv-ultra.com:25461/bud-2597559/7f84c9456d/278577"},
 
+{"name":"AZTECA DEPORTES OPC2","image":"http://descargas.podzone.net/logos/-azteca.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1172659"},
+
+{"name":"BEINSPORT Ñ","image":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155904",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155904"},
+
 {"name":"ESPN 1","image":"https://i.postimg.cc/KvFR3FLr/espn.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2048"},
+
+{"name":"ESPN 1 OPC2","image":"https://i.postimg.cc/KvFR3FLr/espn.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155892"},
 
 {"name":"ESPN 2","image":"https://i.postimg.cc/v82q167s/ESPN2.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2050"},
 
+{"name":"ESPN 2 OPC2","image":"http://descargas.podzone.net/logos/-ESPN-2.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1118923"},
+
 {"name":"ESPN 3","image":"https://i.postimg.cc/y8DMj3Cm/espn3.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1082180"},
 
+{"name":"ESPN 3 OPC2","image":"http://descargas.podzone.net/logos/-ESPN-3.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155903"},
+
 {"name":"ESPN 4 LAT","image":"https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVcpR7xaY4TIHjuXR6DtBAje/ts"},
+
+{"name":"ESPN 4 LAT","image":"https://i.ibb.co/xC9P0T3/ESPN-4-logo-svg.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4120"},
 
 {"name":"ESPN DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZfIZIgFP0GfAT0XcV2OcXv_5FCLYOvrzb2Q&usqp=CAU",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVe9mHkLj2Rhye0f7BS10xLj/ts"},
@@ -121,11 +139,20 @@
 {"name":"FOX SPORT 1","image":"https://i.postimg.cc/W1hpgyH4/fox1.png",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoo-9FwRzy_otQnjoUe9jxN8mxND1HG76Kj3hsJv1LjId/ts"},
 
+{"name":"FOX SPORT 1 OPC2","image":"http://descargas.podzone.net/logos/-Fox-sports.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156755"},
+
 {"name":"FOX SPORT 2","image":"https://i.postimg.cc/d01285jt/fox2.png",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoo-9FwRzy_otQnjoUe9jxN896xnd0vrREO0HCjWNWZuq/ts"},
 
+{"name":"FOX SPORT 2 OPC2","image":"http://descargas.podzone.net/logos/-Fox-sports-2.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156756"},
+
 {"name":"FOX SPORT 3","image":"https://i.postimg.cc/bv5qJvvN/fox3.png",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/4008"},
+
+{"name":"FOX SPORT 3 OPC2","image":"http://descargas.podzone.net/logos/-Fox-sports-3.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156757"},
 
 {"name":"FOX DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sq2aA1FRpvghlub4PEPNnkfKEMU92Ber8w&s",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVfefjKqSjCn0FFcFfMa2q5i/ts"},
@@ -133,51 +160,60 @@
 {"name":"FOX PREMIUM","image":"http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1055"},
 
-{"name":"TUDN USA","image":"http://live.iptvlatino.cc/stream_icons_mx/tudn_usa.png",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1131"},
+{"name":"FOX PREMIUM OPC2","image":"http://descargas.podzone.net/logos/-Fox-Sports-premium.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1126417"},
+
+{"name":"TUDN USA","image":"https://static.wikia.nocookie.net/logopedia/images/6/62/TUDN.png",
+"url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoprB0XQFmnfpVlWsfJeiqjs2gxZyAKzCLIQh2KEELyDh/ts"},
+
+{"name":"TUDN USA OPC2","image":"http://descargas.podzone.net/logos/-univision-TUDN.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1156010"},
 
 {"name":"TUDN","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTItR5lqJvOx7cabASwxWCjnonRlctR18GkZRt-iL292yvFKHoaByLDUl0&s=10",
-"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2113"}]},
+"url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2113"},
+
+{"name":"TUDN OPC2","image":"http://descargas.podzone.net/logos/-univision-TUDN.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/3962"}]},
 
 {"name": "CINE & 24/7",
 "image": "https://png.pngtree.com/png-vector/20230120/ourmid/pngtree-24-7-hour-service-label-design-with-free-vector-png-image_6568820.png", 
 "stations": [
 
 {"name":"CINE ACCION","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRe-1najiqGIz96XRi6NDLCXy1cXXM1iYIDtQ&usqp=CAU",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1180733"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1180733"},
 
 {"name":"CINE AMAZON PRIME","image":"https://img.icons8.com/color/512/amazon-prime-video.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1200682"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1200682"},
 
 {"name":"CINE DIGITAL","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQRB4sVdCnJsjplPAgZ54hZo3fV--eXaIJjS8SownmjCMZotzspBVBBx8ri&s=10",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1202401"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1202401"},
 
 {"name":"CINE CIENCIA FICCION","image":"https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/Sci-fi_film_icon.svg/220px-Sci-fi_film_icon.svg.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1191888"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1191888"},
 
-{"name":"CINE DISNEY+","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGIMOQiht9DWpqpVPuKJocD6EoOoZbNlV3eG8HxTMRKt0FizzvSacmEQ&s=10",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/1155781"},
+{"name":"CINE DISNEY FAMILIA","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQWGIMOQiht9DWpqpVPuKJocD6EoOoZbNlV3eG8HxTMRKt0FizzvSacmEQ&s=10",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1202401"},
 
 {"name":"CINE FAMILIA","image":"http://descargas.podzone.net/logos2/-CINE-FAMILIA.png",
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1156760"},
 
 {"name":"CINE PARAMOUNT+","image":"http://descargas.podzone.net/logos/-paramount.png",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/1200683"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1200683"},
 
 {"name":"CINE SAGAS","image":"https://w7.pngwing.com/pngs/239/20/png-transparent-saga-systems-hd-logo-thumbnail.png",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1180734"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1180734"},
 
 {"name":"CINE STAR+","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4XD3BqplcwenSG_OTIdCQHFqKgaqc_mH8a7ywscff-0ylD6nkPJ3OSBQ&s=10",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1200684"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1200684"},
 
 {"name":"CINE ROBOTS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR9lGHjJ83JStsVAPd9V9-01HA99k9UbfSVWaSfhwXGwT-eW0aWS_LhTSSm&s=10",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/1202400"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1202400"},
 
 {"name":"CINE TERROR","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSJ9Uo2kRv-NfkeOvN27XVZilVFvUId6wPRHMcAz6BWPsSIhwb9_T_06Xk&s",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/1180736"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1180736"},
 
 {"name":"CANTINFLAS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnvNIXeA_uuGc-jvcYa6nFT0KEBQ1rmiPaOA&usqp=CAU",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/1144258"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1144258"},
 
 {"name":"CHESPIRITO","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR0SyKQ4U5wxPNSlkDn26ahsOjnleYN_6wEwPn_YJ3ioZV6JfmhlPREHzo&s",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/691"},
@@ -203,12 +239,6 @@
 {"name":"LOS SIMPSON OPC2","image":"https://i.ibb.co/YDLfZDg/Scale-width-1200-aspect-Ratio-1.webp",
 "url":"http://disfruta.net/live/richardactiva247/gwqUJUjvgE/910cd667-e973-4224-a333-4166fb173898.m3u"},
 
-{"name":"LA ROSA DE GUADALUPE","image":"http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLN1z54EE9jn1hx7iJ8d9nGDN5_FMUuyg4MR1NzupX0eM.jpg",
-"url":"http://sdmx.vip:80/play/RLkVEcK8rErGjv8k2aCoK3P9OSbA6jR_BqdjQA5gwARGnLRDTkucXt7MIgy-FrPS"},
-
-{"name":"LA ROSA DE GUADALUPE  OPC2","image":"http://legendstv.com.mx:80/images/1CX9HZ1TpsR6jq_dGSnHkF7DaaYG-JnaH_5zbvTz1M5mB5g6BUIWNSoocDNYisyLN1z54EE9jn1hx7iJ8d9nGDN5_FMUuyg4MR1NzupX0eM.jpg",
-"url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1215899"},
-
 {"name":"MI VILLANO FAVORITO 1,2,3,4","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTBIyNfqji1HhbByhIw2fJjfCs7-jDefC2QAzQ8IryWb-ZmMvhWbcNSyP0&s=10",
 "url":"http://tvpremium.pro:80/play/KXsWbPCJuuqXq5x6XdFBcvydCLxyLzjVAzEI3rx7RSvmcvAyvalGGtdoa_XddOBQ/ts"},
 
@@ -216,7 +246,7 @@
 "url":"http://tv.nousiptv.com:8080/095488530/Alvaro/1148843"},
 
 {"name":"CINE VAMPIROS","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7XtX41-DytXUUWi74XpefW2_rN_8-GU8Osm6pISSGig&s",
-"url":"http://tv.nousiptv.com:8080/virolawa/193723/1185762"}]},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1185762"}]},
 
 {"name": "CINE & SERIES",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQYsgCCTYBOKfu6IABjOT75t3INsEPnsMpF6-Hh5K1BCmJPaCxkzybTxlTr&s=10", 
@@ -310,19 +340,19 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/139"},
 
 {"name":"HBO OPC2","image":"http://descargas.podzone.net/logos/-HBO.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4112"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4112"},
 
 {"name":"HBO 2","image":"https://i.ibb.co/0XZg6R7/HBO2.jpg ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/131"},
 
 {"name":"HBO 2 OPC2","image":"http://descargas.podzone.net/logos/-HBO-2.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4095"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155794"},
 
 {"name":"HBO FAMILY","image":"https://i.ibb.co/88mbrNn/HBOFAMILY.jpg ",
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/135"},
 
 {"name":"HBO FAMILY OPC2","image":"http://descargas.podzone.net/logos/-HBO-family.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4017"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4017"},
 
 {"name":"HBO LATINO","image":"http://live.iptvlatino.cc/stream_icons_mx/hbo_latino_us.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2075"},
@@ -331,19 +361,19 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/142"},
 
 {"name":"HBO MUNDI OPC2","image":"http://descargas.podzone.net/logos/-HBO-mundi.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1143815"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1143815"},
 
 {"name":"HBO PLUS","image":"https://i.ibb.co/42KnfJN/HBOPLUS.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/144"},
 
 {"name":"HBO PLUS OPC2","image":"http://descargas.podzone.net/logos/-HBO-plus.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4109"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4003"},
 
 {"name":"HBO POP","image":"https://i.ibb.co/VQLsWDt/HBOPOP.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/147"},
 
 {"name":"HBO POP OPC2","image":"http://descargas.podzone.net/logos/-HBO-pop.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/8246"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/47445"},
 
 {"name":"HBO SIGNATURE","image":"https://i.ibb.co/pKfmCx8/HBOSIGNATURE.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/151"},
@@ -355,7 +385,7 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/156"},
 
 {"name":"HBO XTREME OPC2","image":"http://descargas.podzone.net/logos/-HBO-xtream.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/8226"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/44341"},
 
 {"name":"PANICO","image":"http://live.iptvlatino.cc/stream_icons_mx/panico.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/2099"},
@@ -388,7 +418,7 @@
 "url":"http://canal-pro.xyz:8080/73177492/13012022/59431"},
 
 {"name":"TNT OPC2","image":"http://descargas.podzone.net/logos/-TNT.png",
-"url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/4103"},
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4103"},
 
 {"name":"TNT SERIES","image":"http://descargas.podzone.net/logos/-TNT-series.png",
 "url":"http://tv.nousiptv.com:8080/angelicafrancisco/02112020/1156004"},
