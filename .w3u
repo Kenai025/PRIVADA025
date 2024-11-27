@@ -297,14 +297,17 @@
 {"name":"AXN OPC2","image":"http://descargas.podzone.net/logos/-AXN.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4038"},
 
+{"name":"AZ CINEMA","image":"http://descargas.podzone.net/logos/-AZ-cinema.png",
+"url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVcjYjuRIkTM1xpLXenGYVJP/ts"},
+
+{"name":"AZ CINEMA OPC2","image":"http://descargas.podzone.net/logos/-AZ-cinema.png",
+"url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/24783"},
+
 {"name":"CINECANAL","image":"https://i.ibb.co/S0h94pk/CINECANAL.jpg",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/112"},
 
 {"name":"CINECANAL OPC2","image":"http://descargas.podzone.net/logos/-cinecanal.png",
 "url":"http://tv.nousiptv.com:8080/Luciana2347/9473/4068"},
-
-{"name":"CINEMA","image":"http://descargas.podzone.net/logos/-AZ-cinema.png",
-"url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVcjYjuRIkTM1xpLXenGYVJP/ts"},
 
 {"name":"CINEMAX","image":"https://i.ibb.co/xjsQJ2P/CINEMAX.jpg ",
 "url":"http://canal-pro.xyz:8080/73177492/13012022/177"},
