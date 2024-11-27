@@ -105,6 +105,9 @@
 {"name":"HGTV","image":"http://live.iptvlatino.cc/stream_icons_mx/hgtv.png", 
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1176"},
 
+{"name":"HGTV OPC2","image":"http://descargas.podzone.net/logos/-HGTV.png", 
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155823"},
+
 {"name":"ID","image":"https://upload.wikimedia.org/wikipedia/commons/1/18/Logo_id.png", 
 "url":"http://canal-pro.xyz:8080/56971392669wspzero/170721zero/438"},
 
@@ -163,6 +166,9 @@
 {"name":"ESPN DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZfIZIgFP0GfAT0XcV2OcXv_5FCLYOvrzb2Q&usqp=CAU",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVe9mHkLj2Rhye0f7BS10xLj/ts"},
 
+{"name":"ESPN DEPORTES OPC2","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/ESPNUSA.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1155891"},
+
 {"name":"FOX SPORT 1","image":"https://i.postimg.cc/W1hpgyH4/fox1.png",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZoo-9FwRzy_otQnjoUe9jxN8mxND1HG76Kj3hsJv1LjId/ts"},
 
@@ -183,6 +189,9 @@
 
 {"name":"FOX DEPORTES","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2Sq2aA1FRpvghlub4PEPNnkfKEMU92Ber8w&s",
 "url":"http://liontv.es:80/play/XK8A5BUZtMKRm95X-agZokLZZw1N4Mf_M6AscbuwpVfefjKqSjCn0FFcFfMa2q5i/ts"},
+
+{"name":"FOX DEPORTES OPC2","image":"https://app.newtvmx.com/Imagenes/LOGOTIPOS/DEPORTES/FOXDEPORTESUSA.png",
+"url":"http://tv.nousiptv.com:8080/Luciana2347/9473/1202578"},
 
 {"name":"FOX PREMIUM","image":"http://live.iptvlatino.cc/stream_icons_mx/fox_sports_premium_mx.png",
 "url":"http://lat.iptvlatino.me:8880/fteuerqd/c4czjya8/1055"},
